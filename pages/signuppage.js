@@ -8,6 +8,7 @@ export  class SignupViulive
         {
             this.page=page;
             this.createaccount = "//div[@class='MSD-Login']/form/div[4]/div[3]" ;
+             //div[@class="registerLink light"]
             this.fullname = "//div[@class='signupForm']/form/div[1]/div/div/span/input" ;
             this.email = "//div[@class='signupForm']/form/div[3]/div/div/span/input";
             this.password = "//div[@class='signupForm']/form/div[4]/div/div/span/input";
