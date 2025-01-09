@@ -11,7 +11,10 @@ export class ViuLive{
          this.submitbtn= "//div[@id='root']/div/section/div/aside/div/div[3]/form/div[4]/div/div/div/span/button";
          
         }
-
+       async viulivelogin_validation(){
+      
+      
+       }
         
       async ViuLivelogin()
       {
